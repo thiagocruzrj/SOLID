@@ -1,7 +1,7 @@
 # SOLID
 Aplicando boas praticas em C#
 
-SOLID é o acrônimo dos cinco princípios da orientação a objeto indicados por Uncle bob.
+SOLID é o acrônimo dos cinco princípios da orientação a objeto introduzidos por Michael Feathers.
 
  Aplicando tais princípios obtemos:
  
