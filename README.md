@@ -1,13 +1,16 @@
 # SOLID
 Aplicando boas praticas em C#
 
-SOLOD é o acrônimo dos cinco princípios da orientação a objeto indicados por Uncle bob.
+SOLID é o acrônimo dos cinco princípios da orientação a objeto indicados por Uncle bob.
+
  Aplicando tais princípios obtemos:
+ 
 	. Código fácil de manter, adaptar e ajustar.
 	. Testável e de fácil entendimento.
 	. Extensível para alterações com o menor esforço necessário.
 	. Forneça o máximo de reaproveitamento.
-	. Que permaneça o máximo possível em utilização. 	
+	. Que permaneça o máximo possível em utilização. 
+        
  Utilizando o SOLID temos facilidade de testes, previsibilidade, facilidade de isolamento
  por baixo acoplamento.
 
